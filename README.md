@@ -1,4 +1,4 @@
-In this repo, I want to showcase my skills with data manipulation and visualisation.
+I want to showcase my skills with data manipulation and visualisation.
 
 I used the FastF1 API, Numpy, Pandas and matplotlib for multiple purposes.
 To learn the API and understand F1 telemetry data, I did some basic visualisation in
